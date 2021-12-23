@@ -37,6 +37,6 @@ public class SoundsHomePageLocators {
 	@FindBy(xpath="//*[@class='sc-c-paddle__button sc-o-button gs-u-p-alt']")
 	public WebElement rightNavigationButton;
 	
-	@FindBy(xpath="//*[@class='sc-c-paddle gs-u-display-none gs-u-display-block@x']")
+	@FindBy(xpath="//*[contains(@class,'sc-c-paddle gs-u-display-none gs-u-display-block')]")
 	public WebElement carousel;
 }

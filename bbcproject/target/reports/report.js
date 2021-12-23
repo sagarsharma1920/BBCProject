@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 2075806800,
+  "duration": 2281418600,
   "status": "passed"
 });
 formatter.background({
@@ -40,7 +40,7 @@ formatter.match({
   "location": "StepDefinition.i_am_on_the_BBC_Sounds_Homepage()"
 });
 formatter.result({
-  "duration": 3155347200,
+  "duration": 3879561300,
   "status": "passed"
 });
 formatter.scenario({
@@ -81,14 +81,14 @@ formatter.match({
   "location": "StepDefinition.i_select_the_Home_logo()"
 });
 formatter.result({
-  "duration": 561810900,
+  "duration": 896853500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.i_am_on_the_Sounds_Homepage()"
 });
 formatter.result({
-  "duration": 69800500,
+  "duration": 121750500,
   "status": "passed"
 });
 formatter.match({
@@ -101,7 +101,7 @@ formatter.match({
   "location": "StepDefinition.i_can_see_the_Radio_logo(int)"
 });
 formatter.result({
-  "duration": 92379900,
+  "duration": 133874500,
   "status": "passed"
 });
 formatter.match({
@@ -114,15 +114,15 @@ formatter.match({
   "location": "StepDefinition.i_can_see_the_Radio_logo(int)"
 });
 formatter.result({
-  "duration": 61949100,
+  "duration": 120180000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 1300291000,
+  "duration": 1559791800,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1317284900,
+  "duration": 1532941700,
   "status": "passed"
 });
 formatter.background({
@@ -155,7 +155,7 @@ formatter.match({
   "location": "StepDefinition.i_am_on_the_BBC_Sounds_Homepage()"
 });
 formatter.result({
-  "duration": 2832676000,
+  "duration": 2443167800,
   "status": "passed"
 });
 formatter.scenario({
@@ -191,14 +191,14 @@ formatter.match({
   "location": "StepDefinition.i_click_the_View_all_Stations_Schedules_link()"
 });
 formatter.result({
-  "duration": 74669300,
+  "duration": 96661800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.i_am_on_the_Stations_page()"
 });
 formatter.result({
-  "duration": 788147900,
+  "duration": 1033940700,
   "status": "passed"
 });
 formatter.match({
@@ -211,15 +211,15 @@ formatter.match({
   "location": "StepDefinition.i_see_network_station_logos(int)"
 });
 formatter.result({
-  "duration": 17562000,
+  "duration": 18716600,
   "status": "passed"
 });
 formatter.after({
-  "duration": 864414600,
+  "duration": 1007638100,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1296786000,
+  "duration": 1582789500,
   "status": "passed"
 });
 formatter.background({
@@ -252,7 +252,7 @@ formatter.match({
   "location": "StepDefinition.i_am_on_the_BBC_Sounds_Homepage()"
 });
 formatter.result({
-  "duration": 3217559400,
+  "duration": 2795276100,
   "status": "passed"
 });
 formatter.scenario({
@@ -288,29 +288,29 @@ formatter.match({
   "location": "StepDefinition.i_select_Hip_Hop_RnB_Dancehall_Category()"
 });
 formatter.result({
-  "duration": 72917900,
+  "duration": 119224300,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.i_am_on_Hip_Hop_RnB_Dancehall_Category_page()"
 });
 formatter.result({
-  "duration": 958146900,
+  "duration": 1056496800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.i_see_Category_page_is_sorted_by_popular()"
 });
 formatter.result({
-  "duration": 1227985000,
+  "duration": 1235218000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 847955800,
+  "duration": 1064092300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1334107700,
+  "duration": 1548425300,
   "status": "passed"
 });
 formatter.background({
@@ -343,7 +343,7 @@ formatter.match({
   "location": "StepDefinition.i_am_on_the_BBC_Sounds_Homepage()"
 });
 formatter.result({
-  "duration": 2875268200,
+  "duration": 2676703300,
   "status": "passed"
 });
 formatter.scenario({
@@ -379,16 +379,15 @@ formatter.match({
   "location": "StepDefinition.i_am_on_the_Sounds_Homepage()"
 });
 formatter.result({
-  "duration": 57543600,
+  "duration": 82501100,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.validate_carousel_to_see_next_available_stations_in_the_Listen_Live_module()"
 });
 formatter.result({
-  "duration": 43775700,
-  "error_message": "org.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //*[@class\u003d\u0027sc-c-paddle gs-u-display-none gs-u-display-block@x\u0027l because of the following error:\nSyntaxError: Failed to execute \u0027evaluate\u0027 on \u0027Document\u0027: The string \u0027//*[@class\u003d\u0027sc-c-paddle gs-u-display-none gs-u-display-block@x\u0027l\u0027 is not a valid XPath expression.\n  (Session info: chrome\u003d96.0.4664.110)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html\nBuild info: version: \u00273.4.0\u0027, revision: \u0027unknown\u0027, time: \u0027unknown\u0027\nSystem info: host: \u0027LAPTOP-TTGSPF2T\u0027, ip: \u0027192.168.6.248\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_191\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d96.0.4664.45 (76e4c1bb2ab4671b8beba3444e61c0f17584b2fc-refs/branch-heads/4664@{#947}), userDataDir\u003dC:\\Users\\Asus\\AppData\\Local\\Temp\\scoped_dir8584_901069829}, timeouts\u003d{implicit\u003d0.0, pageLoad\u003d300000.0, script\u003d30000.0}, pageLoadStrategy\u003dnormal, unhandledPromptBehavior\u003ddismiss and notify, strictFileInteractability\u003dfalse, platform\u003dANY, proxy\u003dProxy(), goog:chromeOptions\u003d{debuggerAddress\u003dlocalhost:52182}, webauthn:extension:credBlob\u003dtrue, acceptInsecureCerts\u003dfalse, browserVersion\u003d96.0.4664.110, browserName\u003dchrome, javascriptEnabled\u003dtrue, platformName\u003dwindows, setWindowRect\u003dtrue, webauthn:extension:largeBlob\u003dtrue, webauthn:virtualAuthenticators\u003dtrue}]\nSession ID: db3a2d94bd2e645448ccda424d05ea22\n*** Element info: {Using\u003dxpath, value\u003d//*[@class\u003d\u0027sc-c-paddle gs-u-display-none gs-u-display-block@x\u0027l}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:410)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:509)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:361)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:402)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy20.isDisplayed(Unknown Source)\r\n\tat pages.SoundsHomePageMethods.validateCarousel(SoundsHomePageMethods.java:53)\r\n\tat stepdefinition.StepDefinition.validate_carousel_to_see_next_available_stations_in_the_Listen_Live_module(StepDefinition.java:85)\r\n\tat ✽.Then Validate carousel to see next available stations in the Listen Live module(bbcsoundsfeature.feature:32)\r\n",
-  "status": "failed"
+  "duration": 60094400,
+  "status": "passed"
 });
 formatter.match({
   "arguments": [
@@ -400,14 +399,15 @@ formatter.match({
   "location": "StepDefinition.validate_navigation_to_all_stations_using_carousel(int)"
 });
 formatter.result({
-  "status": "skipped"
+  "duration": 96056500,
+  "status": "passed"
 });
 formatter.after({
-  "duration": 846707000,
+  "duration": 1082070700,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1342005900,
+  "duration": 1577463000,
   "status": "passed"
 });
 formatter.background({
@@ -440,7 +440,7 @@ formatter.match({
   "location": "StepDefinition.i_am_on_the_BBC_Sounds_Homepage()"
 });
 formatter.result({
-  "duration": 3214746700,
+  "duration": 2232224200,
   "status": "passed"
 });
 formatter.scenario({
@@ -481,36 +481,36 @@ formatter.match({
   "location": "StepDefinition.i_click_the_View_all_Stations_Schedules_link()"
 });
 formatter.result({
-  "duration": 68713800,
+  "duration": 108450600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.i_am_on_the_Stations_page()"
 });
 formatter.result({
-  "duration": 704692800,
+  "duration": 977357600,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.i_click_on_Sounds_Logo()"
 });
 formatter.result({
-  "duration": 608209900,
+  "duration": 661748500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.i_am_on_the_Sounds_Homepage()"
 });
 formatter.result({
-  "duration": 61565400,
+  "duration": 70256400,
   "status": "passed"
 });
 formatter.after({
-  "duration": 847329600,
+  "duration": 1053001900,
   "status": "passed"
 });
 formatter.before({
-  "duration": 1305245400,
+  "duration": 1567053300,
   "status": "passed"
 });
 formatter.background({
@@ -543,7 +543,7 @@ formatter.match({
   "location": "StepDefinition.i_am_on_the_BBC_Sounds_Homepage()"
 });
 formatter.result({
-  "duration": 2898104200,
+  "duration": 2432390200,
   "status": "passed"
 });
 formatter.scenario({
@@ -584,33 +584,33 @@ formatter.match({
   "location": "StepDefinition.i_click_the_View_all_Stations_Schedules_link()"
 });
 formatter.result({
-  "duration": 66901400,
+  "duration": 132600200,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.i_am_on_the_Stations_page()"
 });
 formatter.result({
-  "duration": 718765000,
+  "duration": 942668800,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.i_mouse_hover_on_radio_stations_network_logo()"
 });
 formatter.result({
-  "duration": 16400,
+  "duration": 16500,
   "status": "passed"
 });
 formatter.match({
   "location": "StepDefinition.validate_Orange_color_line_under_radio_stations_logo()"
 });
 formatter.result({
-  "duration": 503503400,
-  "error_message": "java.lang.AssertionError: expected:\u003crgba(168, 60, 18, 1)\u003e but was:\u003crgba(177, 62, 18, 1)\u003e\r\n\tat org.testng.Assert.fail(Assert.java:74)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:346)\r\n\tat org.testng.Assert.assertEquals(Assert.java:95)\r\n\tat org.testng.Assert.assertEquals(Assert.java:110)\r\n\tat org.testng.Assert.assertEquals(Assert.java:117)\r\n\tat pages.StationsPageMethods.mouseHoverOnRadioNetworkLogosAndValidateOrangeLine(StationsPageMethods.java:59)\r\n\tat stepdefinition.StepDefinition.validate_Orange_color_line_under_radio_stations_logo(StepDefinition.java:105)\r\n\tat ✽.Then Validate Orange color line under radio stations logo(bbcsoundsfeature.feature:47)\r\n",
+  "duration": 261867600,
+  "error_message": "java.lang.AssertionError: expected [rgba(168, 60, 18, 1)] but found [rgba(146, 54, 19, 1)]\r\n\tat org.testng.Assert.fail(Assert.java:93)\r\n\tat org.testng.Assert.failNotEquals(Assert.java:512)\r\n\tat org.testng.Assert.assertEqualsImpl(Assert.java:134)\r\n\tat org.testng.Assert.assertEquals(Assert.java:115)\r\n\tat org.testng.Assert.assertEquals(Assert.java:189)\r\n\tat org.testng.Assert.assertEquals(Assert.java:199)\r\n\tat pages.StationsPageMethods.mouseHoverOnRadioNetworkLogosAndValidateOrangeLine(StationsPageMethods.java:59)\r\n\tat stepdefinition.StepDefinition.validate_Orange_color_line_under_radio_stations_logo(StepDefinition.java:105)\r\n\tat ✽.Then Validate Orange color line under radio stations logo(bbcsoundsfeature.feature:47)\r\n",
   "status": "failed"
 });
 formatter.after({
-  "duration": 865131200,
+  "duration": 1044623100,
   "status": "passed"
 });
 });
